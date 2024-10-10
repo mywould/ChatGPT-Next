@@ -225,7 +225,7 @@ export function SideBar(props: { className?: string }) {
     >
       <SideBarHeader
         title="NextChat"
-        subTitle="Build your own AI assistant."
+        subTitle="AI assistant for HH&ZZ."
         logo={<ChatGptIcon />}
       >
         <div className={styles["sidebar-header-bar"]}>
